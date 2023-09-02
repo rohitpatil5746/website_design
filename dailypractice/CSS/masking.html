@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .masking {
+            height: 400px;
+            width: 500px;
+            mask-image: url(borderiamge/mask3-removebg-preview.png);
+            mask-repeat: no-repeat;
+            mask-position: center;
+            mask-size: cover;
+            /* for chrome support use webkit */
+            -webkit-mask-image: url(borderiamge/mask3-removebg-preview.png);
+            -webkit-mask-repeat: no-repeat;
+            -webkit-mask-position: center;
+            -webkit-mask-size: cover;
+        }
+
+        img {
+            height: 400px;
+            width: 500px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="masking">
+        <img src="borderiamge/bg1.jpg" alt="">
+    </div>
+</body>
+
+</html>

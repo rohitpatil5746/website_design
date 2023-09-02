@@ -1,0 +1,45 @@
+1. Are the HTML tags and elements the same thing?
+-NO
+2. What are tags and attributes in HTML?
+-
+3. What are void elements in HTML? With Example.
+-
+4. What are HTML Entities? With Example.
+-entities use for display the symbol which are not avalable on our keyboard.
+ex.-copyright symbol,registerration symbol,lessthen and greaterthen which can we dont use direct from keyboard
+
+5. What are different types of lists in HTML? With Example.
+
+6. What is the ‘class’ attribute in HTML? With Example.
+
+7. What is the difference between the ‘id’ attribute and the ‘class’ attribute of HTML
+elements? With Example.
+
+8. What are the various formatting tags in HTML?
+
+9. How is Cell Padding different from Cell Spacing? With Example.
+
+10. How can we club two or more rows or columns into a single row or column in an HTML
+table? With Example.
+
+11. What is the difference between a block-level element and an inline element?
+
+12. How to create a Hyperlink in HTML? With Example.
+
+13. What is the use of an iframe tag? With Example.
+
+14. What is the use of a span tag? Explain with example?
+
+15. How to insert a picture into a background image of a web page? With Example.
+
+16. How are active links different from normal links?
+
+17. What are the different tags to separate sections of text?
+
+18. What is SVG?
+- svg is a graphics tag which can use for graphics like circel,polygon,rect,etc....
+
+19. What is difference between HTML and XHTML?
+
+20. What are logical and physical tags in HTML?
+

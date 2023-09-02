@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- both properties use for responsive websites -->
+    <style>
+        .main {
+            display: flex;
+            /* flex-wrap: wrap; */
+            /* flex-wrap: wrap-reverse; */
+            flex-direction: row-reverse;
+        }
+
+        .div1,
+        .div2,
+        .div3 {
+            height: 100px;
+            width: 50%;
+        }
+
+        .div1 {
+            background-color: lightcoral;
+        }
+
+        .div2 {
+            background-color: lightgray;
+        }
+
+        .div3 {
+            background-color: lightseagreen;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- flex flow= flex ddirection and flex wrap -->
+    <div class="main">
+        <div class="div1">div1</div>
+        <div class="div2">div2</div>
+        <div class="div3">div3</div>
+    </div>
+</body>
+
+</html>
